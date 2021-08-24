@@ -1,5 +1,4 @@
 > 팀 프로젝트에서 MariaDB 사용해보기
-> 
 > 참고 : https://doncolmi.github.io/testProject2/
 
 # MariaDB 설치
