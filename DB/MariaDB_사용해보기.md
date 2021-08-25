@@ -40,8 +40,8 @@ CREATE USER '계정이름'@'%' IDENTIFIED BY '패스워드';
 MariaDB [(none)]> CREATE USER '계정이름'@'%' IDENTIFIED BY '패스워드';
 Query OK, 0 rows affected (0.009 sec)
 ```
-*- '계정이름'@'localhost' : localhost에서만 접속 가능 <br>
-- '계정이름'@'%' : 어디에서나 접속 가능*
+*'계정이름'@'localhost' : localhost에서만 접속 가능 <br>
+'계정이름'@'%' : 어디에서나 접속 가능*
 
 2. 권한 부여
 
