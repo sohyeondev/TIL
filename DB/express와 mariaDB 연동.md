@@ -20,7 +20,7 @@ npm install mysql --save
 
  1. 루트 위치에 server.js 생성
 
-    ![](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210825145203468.png)
+    ![](../images/DB-01.png)
 
     *BOOM_HTML -> 프로젝트 폴더<br>createConnection(options) -> 데이터베이스 접속 메서드<br/>*
 
@@ -37,7 +37,7 @@ npm install mysql --save
 
  2. server.js 실행
 
-    ![](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210825150018083.png)
+    ![](../images/DB-02.png)
 
 
 
