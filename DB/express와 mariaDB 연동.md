@@ -24,7 +24,7 @@ npm install mysql --save
 
     *BOOM_HTML -> 프로젝트 폴더<br>
 
-    createConnection(options) -> 데이터베이스 접속 메서드<br />
+    createConnection(options) -> 데이터베이스 접속 메서드*
 
     ###### options // user와 password 속성은 필수
 
