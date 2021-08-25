@@ -1,4 +1,4 @@
-> Express와 MariaDB 연동<br>
+> Express와 MariaDB 연동
 
 
 
@@ -22,9 +22,7 @@ npm install mysql --save
 
     ![](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210825145203468.png)
 
-    *BOOM_HTML -> 프로젝트 폴더<br>
-
-    createConnection(options) -> 데이터베이스 접속 메서드*
+    *BOOM_HTML -> 프로젝트 폴더<br>createConnection(options) -> 데이터베이스 접속 메서드<br/>*
 
     ###### options // user와 password 속성은 필수
 
@@ -40,6 +38,7 @@ npm install mysql --save
  2. server.js 실행
 
     ![](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210825150018083.png)
+
 
 
 
