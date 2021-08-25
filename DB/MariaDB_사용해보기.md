@@ -11,14 +11,11 @@ MariaDB 공식 사이트 : https://mariadb.org/
 # MariaDB 세팅
 
 1. Win+Q => MySQL 검색(MariaDB는 MySQL 기반) 및 실행
-
 2. root 계정으로 MariaDB 서버에 접속
-
  1) 처음 실행시
 ```
 Enter password : 설치시 설정했던 비밀번호
 ```
-
  2) 비밀번호 입력시
 ```
 Enter password: ****
@@ -30,9 +27,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
-
 3. 계정 만들기
-
  1) 계정생성
 ```
 CREATE USER '계정이름'@'%' IDENTIFIED BY '패스워드';
@@ -43,7 +38,6 @@ Query OK, 0 rows affected (0.009 sec)
 ```
 '계정이름'@'localhost' : localhost에서만 접속 가능
 '계정이름'@'%' : 어디에서나 접속 가능
-
  2) 권한 부여
 ```
 GRANT ALL PRIVILEGES ON *.* TO '계정이름'@'%' WITH GRANT OPTION;
