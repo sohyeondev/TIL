@@ -9,4 +9,10 @@ VPC가 없다면 EC2 인스턴스들은 서로 거미줄처럼 연결됨 => 시�
 VPC를 적용하면 VPC별로 네트워크 구성, 각각의 VPC에 따라 다르게 네트워크 설정을 줄 수 있음
 ###### 서브넷 : VPC를 잘개 쪼개는 과정
 
+참고: https://dev.classmethod.jp/articles/vpc-3/
+
+###### CIDR(Classless Inter-Domain Routing) : 클래스 없는 도메인 간 라우팅 기법, 1993년 도입되기 시작한 최신의 IP주소 할당 방법
+###### CIDR 블록 : IP address들의 그룹
+
+
 ...모르겠다 일단 해보고 다시 찾아보고 해봐야지
