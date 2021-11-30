@@ -38,3 +38,5 @@
 			§ DHCP OFFER : 사용할 수 있는 TCP/IP 응답
 			§ DHCP REQUEST : 사용 요청
 			§ DHCP ACK : 허락 응답
+![image](https://user-images.githubusercontent.com/85976426/143966610-efafa5a0-e966-46f4-8fa0-0cfdc56249e8.png)
+
